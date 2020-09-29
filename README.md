@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/gjreddy0324/gjreddy/_apis/build/status/goutham-az.pipelines-java?branchName=master)](https://dev.azure.com/gjreddy0324/gjreddy/_build/latest?definitionId=1&branchName=master)
+
 [![Build Status](https://dev.azure.com/MA322764/Pipelines-java/_apis/build/status/MA322764.pipelines-java?branchName=master)](https://dev.azure.com/MA322764/Pipelines-java/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
